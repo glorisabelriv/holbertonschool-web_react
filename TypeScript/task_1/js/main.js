@@ -1,14 +1,14 @@
 var teacher3 = {
-    firstName: 'Snake',
+    firstName: 'Yan',
     fullTimeEmployee: false,
-    lastName: 'Plissken',
-    location: 'New York',
+    lastName: 'Hu',
+    location: 'Tokio',
     contract: false,
 };
 var director1 = {
-    firstName: 'David',
-    lastName: 'Hayter',
-    location: 'Los Angeles',
+    firstName: 'Max',
+    lastName: 'Charlson',
+    location: 'New York',
     fullTimeEmployee: true,
     numberOfReports: 17,
 };
